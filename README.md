@@ -33,14 +33,15 @@ This project helps stakeholders:
 ## 📂 Files Included
 
 - `Vendor_Performance_Report.pbix` – The Power BI dashboard file
-- `Vendor_Data.xlsx` – (Dummy data used for the project; replace with your version or anonymized data)
-- `README.md` – This file
+- `Vendor_Data.xlsx` – Dummy data used for the project
+- `README.md` 
 
 ---
 
 ## 🖼️ Dashboard Screenshots
 
-![Dashboard Screenshot](./_disp.png)
+![Dashboard Screenshot](disp.png)
+
 
 
 
