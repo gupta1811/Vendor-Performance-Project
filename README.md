@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ## "# Vendor-Performance-Project" 
 # 🧾 Vendor Performance Dashboard – Power BI Project
 
@@ -79,4 +79,4 @@ To open the dashboard:
 
 =======
 ### "# Vendor-Performance-Project" 
->>>>>>> 2014d670e7298a7afc7b04d7f056c0f7689b261f
+
