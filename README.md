@@ -40,7 +40,7 @@ This project helps stakeholders:
 
 ## 🖼️ Dashboard Screenshots
 
-![Dashboard Screenshot](disp.png)
+![Dashboard Screenshot](disp1.png)
 
 
 
