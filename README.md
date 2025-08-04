@@ -1,32 +1,16 @@
+# 📊 Vendor Performance Report - Power BI Dashboard
 
-## "# Vendor-Performance-Project" 
-# 🧾 Vendor Performance Dashboard – Power BI Project
-
-This project showcases a comprehensive **Vendor Performance Analysis Dashboard** built using **Microsoft Power BI**. The dashboard is designed to help procurement or operations teams track, evaluate, and improve vendor performance based on key KPIs.
-
-## 📊 Project Overview
-
-The goal of this project is to provide a **data-driven summary** of how different vendors are performing across various metrics such as:
-
-- Purchase Orders Count
-- On-Time Delivery Rate
-- Quantity Variance
-- Price Variance
-- Overall Vendor Score
-
-This project helps stakeholders:
-- Identify top-performing and underperforming vendors.
-- Make data-informed sourcing decisions.
-- Monitor vendor behavior over time.
+This project is a Power BI dashboard designed to analyze and visualize vendor performance using dummy data. The dashboard helps stakeholders identify top-performing vendors, low performers, delivery timelines, and other KPIs essential for decision-making.
 
 ---
 
 ## 🛠 Tools & Technologies
 
 - **Power BI Desktop (.pbix)**
-- **Microsoft Excel** (for data cleaning and transformation)
-- **DAX (Data Analysis Expressions)** for calculated columns and measures
-- **Power Query Editor** for data preprocessing
+- **SQL** 
+- **Microsoft Excel** 
+- **DAX (Data Analysis Expressions)** 
+- **Power Query Editor** 
 
 ---
 
@@ -34,49 +18,53 @@ This project helps stakeholders:
 
 - `Vendor_Performance_Report.pbix` – The Power BI dashboard file
 - `Vendor_Data.xlsx` – Dummy data used for the project
-- `README.md` 
+- `README.md` – This file
 
 ---
 
 ## 🖼️ Dashboard Screenshots
 
-![Dashboard Screenshot](disp1.png)
-
-
+![Dashboard Screenshot](disp.png)  
 
 
 ---
 
-## 📌 Key Insights
+## 🔑 Key Insights
 
-- Vendors with highest on-time delivery rates
-- Vendors with frequent price or quantity mismatches
-- Trend lines for delivery performance over time
-- Dynamic filters for vendor category, region, and product types
-
----
-
-## 🔐 Data Disclaimer
-
-This project is for educational and demonstration purposes only. All vendor names and data used are fictional or anonymized to ensure data privacy.
+- Identified top 5 and bottom 5 vendors by performance score
+- Analyzed delivery punctuality trends over time
+- Vendor-wise total quantity delivered and defects count
+- Monthly average performance ratings
+- Interactive filters by region, category, and vendor
 
 ---
 
-## 👨‍💻 Author
+## 🔄 Data Flow
 
-**Mridul Gupta**  
-📧 [mridulgupta1811@gmail.com](mailto:mridulgupta1811@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/mridulgupta18) | [GitHub](https://github.com/gupta1811)
+1. **Data Ingestion**: Source Excel file read using Power BI
+2. **Data Transformation**: Cleaned & reshaped using SQL scripts and Power Query
+3. **Modeling**: Relationships created among tables (fact and dimension)
+4. **Calculations**: Measures defined using DAX
+5. **Visualization**: Final report designed with slicers, bar charts, KPIs, etc.
 
 ---
 
 ## 🚀 Getting Started
 
-To open the dashboard:
-1. Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
-2. Clone this repository or download the `.pbix` file.
-3. Open `Vendor_Performance_Report.pbix` in Power BI.
+1. Clone this repo
+2. Open `Vendor_Performance_Report.pbix` in Power BI Desktop
+3. Refresh the data using the Excel file provided
+4. Explore insights interactively!
 
-=======
-### "# Vendor-Performance-Project" 
+---
 
+## 📎 Author
+
+**Mridul Gupta**  
+[LinkedIn](https://www.linkedin.com/in/mridulgupta18/) | [GitHub](https://github.com/gupta1811)
+
+---
+
+## 📝 License
+
+This project is for educational/demo purposes only.
