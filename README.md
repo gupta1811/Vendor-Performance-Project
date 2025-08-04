@@ -42,7 +42,7 @@ This project helps stakeholders:
 
 ![Dashboard Screenshot](./_disp.png)
 
-*(Add screenshots if available)*
+
 
 ---
 
