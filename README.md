@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## "# Vendor-Performance-Project" 
 # 🧾 Vendor Performance Dashboard – Power BI Project
 
@@ -75,3 +76,6 @@ To open the dashboard:
 2. Clone this repository or download the `.pbix` file.
 3. Open `Vendor_Performance_Report.pbix` in Power BI.
 
+=======
+### "# Vendor-Performance-Project" 
+>>>>>>> 2014d670e7298a7afc7b04d7f056c0f7689b261f
